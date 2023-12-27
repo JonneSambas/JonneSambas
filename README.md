@@ -1,6 +1,6 @@
 ### Hello there! Eu sou o Jonne Sambas e vamos juntos explorar esse incrível mundo da Programação!👋
 
-- 🔭 Atualmente estou trabalhando com Help Desk e explorando aplicações web com o Framework Laravel;
+- 🔭 Atualmente estou trabalhando com Help Desk e Desenvolvimento Web, explorando aplicações como o Framework Laravel;
 - 🌱 Estou aprendendo agora Laravel, Vue.js, HTML 5, CSS 3, Javasript e frameworks de programação web;
 - 😎 Nas horas vagas eu faço impressões 3D e faço a pintura delas.
 - ⚡ Um fato sobre mim: Se quiser um bom bate papo é só falar de Star Wars, 3D Print e Rock.
